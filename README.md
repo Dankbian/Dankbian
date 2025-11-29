@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&duration=2500&pause=1&color=00E5F7&background=1BE7FF0B&center=true&multiline=true&width=435&height=90&lines=Dankbian;%3C3)](https://git.io/typing-svg)
 <!--
 **Dankbian/Dankbian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
