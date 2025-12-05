@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=50&pause=1000&random=true&width=435&height=100&lines=DANKBIAN;%3C3;7w7;Dankbian;sudo+unzip+pants;Dankbian)](https://git.io/typing-svg)
-<!--
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=50&pause=1000&random=true&width=435&height=100&lines=DANKBIAN;%3C3;7w7;Dankbian;sudo+unzip+pants)](https://git.io/typing-svg) 
+ <!--
 **Dankbian/Dankbian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
